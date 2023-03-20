@@ -13,6 +13,8 @@
     "no-param-reassign": 0,
     "import/extensions": 0,
     "no-console": 0,
-    "arrow-parens": 0
+    "arrow-parens": 0,
+    "space-unary-ops": 0,
+    "max-classes-per-file": 0
   }
 }
