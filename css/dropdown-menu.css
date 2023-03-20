@@ -47,3 +47,10 @@
   color: white;
   transition: .2s;
 }
+
+@media (max-width: 700px) {
+  [data-dropdown] .dropdown-menu {
+    display: block;
+    animation: showUp .3s forwards;
+  }
+}
